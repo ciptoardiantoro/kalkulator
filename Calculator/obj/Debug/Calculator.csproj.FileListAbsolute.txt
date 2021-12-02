@@ -1,0 +1,13 @@
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\TugasDelegateEvent.Kalkulator.resources
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\TugasDelegateEvent.Hasil.resources
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\Calculator.Hasil.resources
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\pertemuan9\calculator\Calculator\Calculator\obj\Debug\Calculator.Kalkulator.resources
